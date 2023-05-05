@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42a52bb0-0035-401e-86aa-5d8d8522c410" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Abstraction_Practical/Abstraction_Practical.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Abstraction_Practical/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Collection_Practice/src/Equals_Method/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Method_Overiding_Practice/src/H_Package/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java2_Preoject/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PRO_1/Try.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PRO_1/out/production/PRO_1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PRO_1/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="2PMaWQ9tgmqdbCuAeWjHj7wmNVd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/hinal/Desktop/java_p/Practice/AccessModifier/src"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42a52bb0-0035-401e-86aa-5d8d8522c410" name="Changes" comment="" />
+      <created>1683269435234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683269435234</updated>
+    </task>
+    <servers />
+  </component>
+</project>
